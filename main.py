@@ -5,7 +5,7 @@ import asyncio
 import platform
 
 from process import start
-  import src
+      import src
 
 
 # SETTING POLICY FOR WINDOWS
